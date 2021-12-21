@@ -23,3 +23,5 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldantasoli&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/gabrieldantasoli/gabrieldantasoli/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldantasoli&repo=gabrieldantasoli&theme=react)](https://github.com/gabrieldantasoli/gabrieldantasoli)
