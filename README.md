@@ -22,4 +22,4 @@
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gabrieldantasoli&show_icons=true&theme=chartreuse-dark)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldantasoli&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrieldantasoli/gabrieldantasoli/blob/output/github-contribution-grid-snake.svg)
