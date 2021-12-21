@@ -1,3 +1,2 @@
-<p>Olá ! Me chamo Gabriel Dantas de Oliveira . 🖖 </p>
-<p>Sobre min :</p>
-<p>Sou estudante de ciência daa computação na UFCG (Universidade Federal de Campina Grande) e estou interessado , no momento , em Python , HTML , CSS e javascript .</p>
+###Hello , DEVS ! Welcome to my github profile !
+My name is Gabriel Dantas and my nickname is "gabrieldantasoli" .
