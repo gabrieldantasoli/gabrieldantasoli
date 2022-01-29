@@ -2,7 +2,7 @@
 ### My name is Gabriel Dantas and my nickname is "gabrieldantasoli" .
 
 ### 🌱 Currently studying :
-<div align="center" display="grid">
+<div align="center" display="grid" grid-template-columns="1fr 1fr">
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
