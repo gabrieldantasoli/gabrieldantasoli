@@ -1,9 +1,8 @@
-<h1>hello</h1>
 ## 🖖 Hello , DEVS ! Welcome to my github profile !
 ### My name is Gabriel Dantas and my nickname is "gabrieldantasoli" .
 
 ### 🌱 Currently studying :
-<div align="center">
+<div align="center" display="grid">
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
