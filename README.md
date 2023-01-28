@@ -22,28 +22,19 @@
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gabrieldantasoli&show_icons=true&theme=chartreuse-dark)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldantasoli&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)*/
 
+
+
+
+
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    Hello , my name is 
+    <a href="https://www.linkedin.com/in/gabriel-dantas-99848b212/">Gabriel Dantas 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
-  </p>
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    compuracao    
   </p>
   
 </div>
