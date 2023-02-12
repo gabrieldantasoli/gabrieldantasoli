@@ -43,8 +43,18 @@
 
 <div align="center">
   <h2>My lastest React Websites</h2>
-  <a href="https://quicknote-crud.netlify.app" target="_blank">Quick Note</a>
-  <a href="https://calls-app.netlify.app" target="_blank">Calls App</a>
-  <a href="https://c-r-u-d-firebase.netlify.app" target="_blank">C.R.U.D.</a>
-  <a href="https://filmariausingapi.netlify.app" target="_blank">Filmaria</a>
+  <ul>
+    <li>
+      <a href="https://quicknote-crud.netlify.app" target="_blank">Quick Note</a>
+    </li>
+    <li>
+      <a href="https://calls-app.netlify.app" target="_blank">Calls App</a>
+    </li>
+    <li>
+      <a href="https://c-r-u-d-firebase.netlify.app" target="_blank">C.R.U.D.</a>
+    </li>
+    <li>
+      <a href="https://filmariausingapi.netlify.app" target="_blank">Filmaria</a>
+    </li>
+  </ul>
  </div>
