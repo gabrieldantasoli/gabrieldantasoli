@@ -43,5 +43,5 @@
 
 <div align="center">
   <h2>My lastest React Websites</h2>
-  <a href="https://quicknote-crud.netlify.app">Quick Note</a>
+  <a href="https://quicknote-crud.netlify.app" target="_blank">Quick Note</a>
  </div>
