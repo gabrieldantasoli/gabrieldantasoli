@@ -56,5 +56,8 @@
     <li>
       <a href="https://filmariausingapi.netlify.app" target="_blank">Filmaria</a>
     </li>
+    <li>
+      <a href="https://algorithms-is-life.netlify.app/" target="_blank">Algoritmos de Ordenação</a>
+    </li>
   </ul>
  </div>
