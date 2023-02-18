@@ -59,5 +59,8 @@
     <li>
       <a href="https://algorithms-is-life.netlify.app/" target="_blank">Algoritmos de Ordenação</a>
     </li>
+    <li>
+      <a href="https://shop-using-redux.netlify.app" target="_blank">Redux Shopping</a>
+    </li>
   </ul>
  </div>
